@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpaceMobile</string>
+    <string name="activity2_name">SecondActivity</string>
+    <string name="activity3_name">ThirdActivity</string>
+</resources>
